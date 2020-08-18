@@ -1,0 +1,28 @@
+body{
+    background: rosybrown;
+    text-align: center;
+}
+
+
+
+#timer {
+    font-size: 80px;
+    color: black;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+button:hover{
+    background-color: burlywood;
+}
+
+select {
+    font-size: 25px;
+    background-color: burlywood;
+}
