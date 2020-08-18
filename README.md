@@ -1,6 +1,6 @@
 ### Gala darbs - Bloga izveidoša ar Laravel
 
-1)Izmantojot laravel tika izveidots blogs, kurā var pievienot, editot un dzēst postus.
+1)Izmantojot laravel tika izveidots blogs, kurā var pievienot, editot un dzēst postus.<br>
 2)Footerī ir 3 pogas divas ar iepriekšējiem uzdevumiem - alarm un cv, un viena jauna posta pievienošanai.
 3)Katrai lapai ir back poga, kura atved atpakaļ uz sākumlapu.
 4)Piespiežot "Read more" pogu postam, aizvedīs individuāli uz post, kur arī ir trīs opcijas - go back, edit or delete post.
